@@ -76,7 +76,7 @@
 }
 
 - (BOOL)shouldAutorotate {
-    return [[self presentingViewController] shouldAutorotate];
+    return false;
 }
 - (UIInterfaceOrientationMask)supportedInterfaceOrientations
 {
