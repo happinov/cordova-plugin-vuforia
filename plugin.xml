@@ -165,10 +165,6 @@
 
 
         <resource-file src="src/ios/VuforiaPlugin.bundle" />
-        <resource-file src="src/ios/Utils/shaders/Line.fragsh" target-dir="com.mattrayner.vuforia/shader" />
-        <resource-file src="src/ios/Utils/shaders/Line.vertsh" target-dir="com.mattrayner.vuforia/shader" />
-        <resource-file src="src/ios/Utils/shaders/Simple.fragsh" target-dir="com.mattrayner.vuforia" />
-        <resource-file src="src/ios/Utils/shaders/Simple.vertsh" target-dir="com.mattrayner.vuforia" />
 
 
         <resource-file src="targets/PluginTest.dat" target-dir="com.mattrayner.vuforia" />
